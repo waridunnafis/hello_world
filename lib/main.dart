@@ -67,6 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
         text2 = 'Prima: ';
       }
 
+
       // latihan
 
       if(_counter%2==0 && _counter%3==0){
